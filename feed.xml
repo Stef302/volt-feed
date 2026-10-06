@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Volt ⚡ — Actualités</title>
+		<link>https://volt.tail8c162c.ts.net</link>
+		<description>Nouveautés, mises à jour et annonces de l'app Volt (notes chiffrées, sandbox HTML/Python, P2P).</description>
+		<language>fr</language>
+		<lastBuildDate>Tue, 06 Oct 2026 07:06:26 GMT</lastBuildDate>
+		<atom:link href="https://volt.tail8c162c.ts.net/rss.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Py IDE — un vrai IDE Python dans Volt</title>
+			<link>https://volt.tail8c162c.ts.net</link>
+			<guid isPermaLink="false">volt-news-2026-10-05-pyide</guid>
+			<pubDate>Mon, 05 Oct 2026 18:00:00 GMT</pubDate>
+			<description>Élément Sandbox avec éditeur Monaco, terminal xterm interactif et noyau Pyodide (Python 3.14). Exécution 100 % locale, aperçu de la sortie directement dans vos notes.</description>
+		</item>
+		<item>
+			<title>Sandbox HTML + Python dans le même élément</title>
+			<link>https://volt.tail8c162c.ts.net</link>
+			<guid isPermaLink="false">volt-news-2026-10-05-sandbox</guid>
+			<pubDate>Mon, 05 Oct 2026 18:00:00 GMT</pubDate>
+			<description>L'élément Sandbox devient bimode : choisissez HTML ou Python, le code vit dans la note et se partage comme le reste.</description>
+		</item>
+		<item>
+			<title>Verrou mono-onglet</title>
+			<link>https://volt.tail8c162c.ts.net</link>
+			<guid isPermaLink="false">volt-news-2026-10-05-guard</guid>
+			<pubDate>Mon, 05 Oct 2026 18:00:00 GMT</pubDate>
+			<description>Une seule page Volt vivante par appareil : ouvrir un second onglet propose de basculer la session, sans duplication de données.</description>
+		</item>
+		<item>
+			<title>Volt 1.0.8-playtest publiée [Test]</title>
+			<link>https://github.com/Stef302/Volt-App/releases/tag/v1.0.8-playtest</link>
+			<guid isPermaLink="false">volt-release-v1.0.8-playtest</guid>
+			<pubDate>Sun, 04 Oct 2026 19:08:46 GMT</pubDate>
+			<description>Volt 1.0.8 (versionCode 16) — AAB de test pour Google Play Variante release (canal de test API Play, upload track internal). Portes : tsc --noEmit, build web, mobile-check, apksigner verify. -- Empreinte sha256 AAB:  Code embarque: 9ce902c3b6b3</description>
+		</item>
+		<item>
+			<title>Volt 1.0.8-5f5f3e8db366 publiée</title>
+			<link>https://github.com/Stef302/Volt-App/releases/tag/v1.0.8-5f5f3e8db366</link>
+			<guid isPermaLink="false">volt-release-v1.0.8-5f5f3e8db366</guid>
+			<pubDate>Sun, 27 Sep 2026 16:18:05 GMT</pubDate>
+			<description>Volt 1.0.8 (versionCode 16) — armeabi-v7a  arm64-v8a Variante release (livrable signe, verifie par apksigner), tache gradle :app:assembleRelease, format apk. Portes : tsc --noEmit, build web, mobile-check, apksigner verify. 5f5f3e8 fix(build): keystore resolu pour le conteneur + obfuscation limite a</description>
+		</item>
+		<item>
+			<title>Volt 1.0.8-d0826a9e725e publiée [Test]</title>
+			<link>https://github.com/Stef302/Volt-App/releases/tag/v1.0.8-d0826a9e725e</link>
+			<guid isPermaLink="false">volt-release-v1.0.8-d0826a9e725e</guid>
+			<pubDate>Sat, 26 Sep 2026 20:41:38 GMT</pubDate>
+			<description>Volt 1.0.8 (versionCode 16) — armeabi-v7a + arm64-v8a CANAL INTERNE. Archive assemblee en variante DEBUG : signee avec la cle de debug, debuggable=&quot;true&quot;. A tester, pas a distribuer. Une archive verifiee par apksigner (signature release) ne sort que sur demande explicite. Portes relancees sur cet ar</description>
+		</item>
+	</channel>
+</rss>
